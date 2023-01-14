@@ -90,9 +90,9 @@ maendeleolab_lib.py
 
 **6**  - I recommend running the script **deploy_NetworkDev1.py** to see what the expected results look like.
 
-By default the script will create 2 elastic IP addresses in the VPC regions us-east-1 and us-west-2.
+By default the script will create 2 elastic IP addresses in the VPC in us-east-1 and us-west-2 regions.
 
-This script will become your single source of truth for your nat gateways deployments. 
+This script will become your single source of truth for your elastic IP deployments. 
 
 ```
 ./deploy_NetworkDev1.py or python3 deploy_NetworkDev1.py
