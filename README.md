@@ -121,7 +121,6 @@ If you find this script useful, please support it with a shout out on your favor
 ```
 Twitter : @maendeleolab
 Instagram : @maendeleolab
-TitTok : @pat_maendeleolab
 ```
 ## [License](#License)
 GNU GENERAL PUBLIC LICENSE
